@@ -44,8 +44,8 @@
 1. Склонировать репозиторий:
    
    ```bash
-   git clone https://github.com/<username>/<repo>.git
-   cd <repo>
+   git clone https://github.com/klarness/rustore-mvp.git
+   cd rustore-mvp
    
 2.Открыть проект в Android Studio (последняя версия).
 3. Дождаться Gradle Sync.
