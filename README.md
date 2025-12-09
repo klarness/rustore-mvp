@@ -53,4 +53,4 @@
 
 
 ## Демонстрация
-[Смотреть видео](https://github.com/<ты>/<репо>/raw/main/demonstration.mov)
+[Смотреть видео](https://github.com/klarness/rustore-mvp/blob/main/demonstration.mov)
